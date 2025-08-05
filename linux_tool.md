@@ -18,4 +18,8 @@ unrar x DeepSeek-R1-0528-Qwen3-8B.rar
 ```
 df -h
 ```
+## 5 查看某个文件夹下文件大小
+```
+du -h <路径>
+```
 
