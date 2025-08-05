@@ -14,3 +14,8 @@ wc -l {文件} 打印文件行数
 ```
 unrar x DeepSeek-R1-0528-Qwen3-8B.rar
 ```
+## 4 查看磁盘空间大小
+```
+df -h
+```
+
