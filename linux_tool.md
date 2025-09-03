@@ -31,4 +31,7 @@ grep -F '"output": "```json' <文件路径>
 ```
 tar -czvf 输出文件名.tar.gz ./你要压缩的文件夹
 ```
-
+## 8 创建软连接
+```
+ln -sf /usr/bin/python2 python
+```
