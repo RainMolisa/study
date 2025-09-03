@@ -25,6 +25,7 @@ du -h <路径>
 ## 6 搜索文件关键词 grep (GNU grep) 3.7
 ```
 grep -rns "你的关键词" <文件路径>
+grep -F '"output": "```json' <文件路径>
 ```
 ## 7 压缩文件夹 tar (GNU tar) 1.34
 ```
