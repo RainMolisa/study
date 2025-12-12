@@ -26,6 +26,7 @@ du -h <路径>
 ```
 grep -rns "你的关键词" <文件路径>
 grep -F '"output": "```json' <文件路径>
+grep -rns --include='*.py' ss_delimiter ./src/v3
 ```
 ## 7 压缩文件夹 tar (GNU tar) 1.34
 ```
